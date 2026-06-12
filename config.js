@@ -43,13 +43,13 @@ const CONFIG = {
     // They show up depending on how far they slide the meter
     loveMessages: {
         extreme: "TUDO ISSO? 🥰💝",  // Shows when they go past 5000%
-        high: "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA 💝",              // Shows when they go past 1000%
+        high: "MAIS QUE A GOSUEN? AAAAAAAAAAAAAAAAAAA 💝",              // Shows when they go past 1000%
         normal: "Mais que o neymar? 🥰"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Eu sou a pessoa mais feliz e mais rica do mundo  🎉💝💖💝💓",
+        title: "É nois Lek tamo junto parceria  🎉💝💖💝💓",
         message: "De noite vou te encher de beijinhos!",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
